@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeongbinSon
 - 👀 I’m interested in Infomation Security / Business
-- 🌱 I’m currently learning C language / Web Hacking / Business
+- 🌱 I’m currently learning Python language / Web Hacking / Business
 - 📫 How to reach me ceo.seongbin@proton.me or Discord : just_error.kr
 
 <!---
