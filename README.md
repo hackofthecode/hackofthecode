@@ -1,4 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbinson&layout=compact)
+![SeongbinSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongbinSon&show_icons=true&theme=radical)
 - 👋 Hi, I’m @SeongbinSon
 - 👀 I’m interested in Infomation Security / Business
 - 🌱 I’m currently learning Python language / Web Hacking / Business
