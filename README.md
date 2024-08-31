@@ -1,6 +1,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbinson&layout=compact)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=Python&logoColor=#3776AB"/></a>
+![Seongbinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongbinson&show_icons=true&theme=nightowl)
 - 👋 안녕하세요, 손성빈입니다. @SeongbinSon
 - 👀 저는 IT 경영 및 정보보안에 관심이 많습니다.
 - 🎓 KAIST IP-CEO 15기 / 건양대학교 정보보호영재교육원 3기 / HDMBMS 3th
