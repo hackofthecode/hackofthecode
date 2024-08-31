@@ -1,6 +1,32 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbinson&layout=compact)
 ![Seongbinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongbinson&show_icons=true&theme=nightowl)
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    </div>
+    <!-- Others -->
+    <p><strong>Others</strong></p>
+    <div>
+</div><br>
+</div>
 - 👋 안녕하세요, 손성빈입니다. @SeongbinSon
 - 👀 저는 IT 경영 및 정보보안에 관심이 많습니다.
 - 🎓 KAIST IP-CEO 15기 / 건양대학교 정보보호영재교육원 3기 / HDMBMS 3th
