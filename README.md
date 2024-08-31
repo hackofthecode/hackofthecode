@@ -19,7 +19,8 @@
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div>
-     <p><strong></strong></p>
+     <p><strong>Framework</strong></p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <div>
 </div><br>
 </div>
