@@ -6,7 +6,6 @@
 <p>- 🎓 KAIST IP-CEO 15기 / 건양대학교 정보보호영재교육원 3기 / HDMBMS 3th</p>
 <p>- ✨ VenturOx Labs라는 곳에서 경영 및 기술 부분으로 일하고 있습니다. (CEO, Co-Founder)</p>
 <p>- 📫 개인 : ceo.seongbin@proton.me / 비즈니스 : seongbin@venturox.com / insta,discord : @just_error.kr</p>
-SKILL
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
