@@ -1,6 +1,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbinson&layout=compact)
-![Seongbinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongbinson&show_icons=true&theme=nightowl)
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
