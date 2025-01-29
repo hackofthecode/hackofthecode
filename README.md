@@ -1,6 +1,6 @@
 <div>Hello, there.</div>
 <div>I'm Seongbin Son (hackofthecode)</div>
-<div>InfoSec Hacker, Enterpreneur</div>
+<div>InfoSec Hacker, Developer, Enterpreneur</div>
 <div> ---------------------- </div>
 <div>[ 25.03 ~ ] Dankook Univ. Software High School 6th</div>
 <div>[ 24.01 ~  ] KAIST IP-CEO(Center for Creative Enterpreneur) 15th</div>
