@@ -2,7 +2,7 @@
 <div>I'm Seongbin Son (hackofthecode)</div>
 <div>InfoSec Hacker, Developer, Enterpreneur</div>
 <div> ---------------------- </div>
-<div>[ 25.03 ~ ] Dankook Univ. Software High School 6th</div>
+<div>[ 25.03 ~ ] Dankook Univ. Software High School 6th, NOID Web/App 3rd</div>
 <div>[ 24.01 ~  ] KAIST IP-CEO(Center for Creative Enterpreneur) 15th</div>
 <div>[ 22.03 ~ 22.11 ] Konyang Univ. InfoSec Gifted 3rd</div>
 
