@@ -1,5 +1,6 @@
 <div>Hello, there.</div>
 <div>I'm Seongbin Son (hackofthecode)</div>
+<div>Develop for Web3 Security</div>
 <div>InfoSec Hacker, Developer, Enterpreneur</div>
 <div> ---------------------- </div>
 <div>[ 25.04 ~ ] Founder of TraceClip</div>
